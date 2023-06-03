@@ -1,2 +1,2 @@
 # Portfolio_projects
-This is my first attempt create something new on GitHub
+This is my first attempt to create something new on GitHub
