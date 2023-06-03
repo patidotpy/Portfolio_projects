@@ -1,2 +1,4 @@
 # Portfolio_projects
-This is my first attempt to create something new on GitHub
+
+This website will showcase my progress in learning data analysis. 
+
