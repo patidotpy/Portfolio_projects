@@ -6,6 +6,8 @@ This website will showcase my progress in learning data analysis.
 
 *Here should be a description of the project*
 
+![Example image](https://github.com/patidotpy/Portfolio_projects/blob/main/images/chart.PNG)
+
 
 ## [#2 Project: "Title"](www for repo with the project)
 
