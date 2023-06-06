@@ -2,9 +2,13 @@
 
 This website will showcase my progress in learning data analysis. 
 
-## [#1 Project: "Title"](www for repo with the project)
-
+## [#1 Project: "Title"](www for repo with the project)   
 *Here should be a description of the project*
+<!--
+`here some code` but now it is a comment
+
+
+- [ ] to do -->
 
 ![Example image](https://github.com/patidotpy/Portfolio_projects/blob/main/_images/chart.PNG?raw=true)
 
