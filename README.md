@@ -1,12 +1,10 @@
-# My Portfolio Projects
-
 ### About Me
 
 This website will showcase my progress in learning data analysis. 
 
 ### #1 Using Power BI to track the movies I have watched 
-In this project, I have used data about the last 50 movies I have watched. These movies were watched by me between August 15, 2022, and May 21, 2023.
-The data has been imported into Microsoft Power BI, cleaned, and then visualized.
+In this report, I have summarized the data on the last 50 films I have watched. I watched these movies between August 15, 2022, and May 21, 2023.
+The data was imported into Microsoft Power Bi, cleaned there, and then visualized.
 
 #### Step 1: Import of data
 
