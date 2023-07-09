@@ -5,3 +5,11 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+.site-title{
+  text-shadow: -2px 0px 5px rgba(164,164,164,0.4);
+}
+.site-header{
+  background-color: #3B4A53;
+  
+}
+  
