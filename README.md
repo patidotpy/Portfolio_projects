@@ -1,1 +1,1 @@
-On this site I'll show my DA projects.
+This is my place for sharing my insights into the world of data.
